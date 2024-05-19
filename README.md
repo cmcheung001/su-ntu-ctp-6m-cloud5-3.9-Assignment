@@ -1,5 +1,7 @@
 # su-ntu-ctp-6m-cloud5-3.9-Assignment
 
+Credit to ChatGPT
+
 A) An overview of the origins of DevOps and its key principles.
 Origins
 DevOps, a compound of "development" and "operations," is a set of practices that aim to shorten the systems development life cycle and provide continuous delivery with high software quality. The concept of DevOps emerged in response to the growing need for agile software development and the inefficiencies caused by the traditional separation between development (Dev) and IT operations (Ops).
